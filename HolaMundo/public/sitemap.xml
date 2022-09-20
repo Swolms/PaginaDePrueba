@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/hola/</loc>
+    <loc>https://swolms.github.io/PaginaDePrueba/hola/</loc>
     <lastmod>2022-09-20T11:20:10-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://swolms.github.io/PaginaDePrueba/categories/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://swolms.github.io/PaginaDePrueba/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://swolms.github.io/PaginaDePrueba/tags/</loc>
   </url>
 </urlset>
