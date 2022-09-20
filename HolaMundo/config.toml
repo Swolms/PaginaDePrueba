@@ -1,4 +1,4 @@
-baseURL = 'https://deswebcom.github.io/primeros-pasos-hugo/'
+baseURL = 'https://swolms.github.io/PaginaDePrueba/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'Tale'
